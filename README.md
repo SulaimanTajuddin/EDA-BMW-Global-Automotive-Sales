@@ -1,4 +1,4 @@
-# 🚗 BMW Global Automotive Sales – Exploratory Data Analysis (EDA)
+#  BMW Global Automotive Sales – Exploratory Data Analysis (EDA)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9-blue?n
@@ -16,8 +16,6 @@
 - 📖 Project Overview
 - [🎯 Objectives](#📊 Dataset](#-dataset)
 - 🛠 Tools Used
-- 🔍 Analysis Workflow
-- [📈 Key Visualizations- [💡 Key Insights](#-key-inse Improvements](#-future-im-
 
 ## 📖 Project Overview
 This project performs **Exploratory Data Analysis (EDA)** on **BMW’s global automotive sales data** to uncover trends, patterns, and insights across regions and time periods.
